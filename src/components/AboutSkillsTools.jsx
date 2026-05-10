@@ -98,7 +98,6 @@ const AboutSkillsTools = () => {
                     <i className={tool.icon}></i>
                   </div>
                   <h3>{tool.name}</h3>
-                  <p>Professional {tool.name.toLowerCase()} solutions</p>
                 </div>
               ))}
             </div>
