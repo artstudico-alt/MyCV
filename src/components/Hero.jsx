@@ -68,41 +68,7 @@ const Hero = () => {
                 <i className="fas fa-envelope"></i>
               </a>
             </div>
-            <div className="personal-info">
-              <div className="container">
-                <div className="info-grid">
-                  <div className="info-item">
-                    <i className="fas fa-briefcase"></i>
-                    <div className="info-content">
-                      <h3>Pengalaman</h3>
-                      <p>3+ Tahun</p>
-                    </div>
-                  </div>
-                  <div className="info-item">
-                    <i className="fas fa-graduation-cap"></i>
-                    <div className="info-content">
-                      <h3>Pendidikan</h3>
-                      <p>S1 Teknik Informatika</p>
-                    </div>
-                  </div>
-                  <div className="info-item">
-                    <i className="fas fa-map-marker-alt"></i>
-                    <div className="info-content">
-                      <h3>Lokasi</h3>
-                      <p>Jakarta, Indonesia</p>
-                    </div>
-                  </div>
-                  <div className="info-item">
-                    <i className="fas fa-envelope"></i>
-                    <div className="info-content">
-                      <h3>Email</h3>
-                      <p>ardiansyah@example.com</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+                      </div>
           <div className="hero-image">
             <div className="neon-background">
               <div className="neon-circle neon-circle-1"></div>

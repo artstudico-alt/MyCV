@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import PersonalInfo from './components/PersonalInfo';
 import Projects from './components/Projects';
 import AboutSkillsTools from './components/AboutSkillsTools';
 import Contact from './components/Contact';
@@ -84,6 +85,7 @@ const HomePage = () => {
         <div className="neon-diamond neon-diamond-3"></div>
       </div>
       <Hero />
+      <PersonalInfo />
       <Projects />
       <AboutSkillsTools />
       <Contact />
